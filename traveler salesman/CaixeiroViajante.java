@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 public class CaixeiroViajante {
 // JOHNNY FAGUNDES DE PAULA - U260593//
-// JONATHAN SCROK - U260174//
 	public static void main(String[] args) {
 		new CaixeiroViajante().readFile();
 		char cities[] = { '1', '2', '3', '4', '5' };
